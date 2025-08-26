@@ -1,3 +1,22 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+aside {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    height: 100%;
+}
+
 .titulo {
     text-align: center;
 }
