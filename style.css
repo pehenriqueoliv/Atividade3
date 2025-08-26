@@ -29,3 +29,12 @@
 .sublinhado {
     text-decoration: underline;
 }
+
+.center {
+    text-align: center;
+}
+
+.texto {
+    text-align: justify;
+    padding: 100px;
+}
